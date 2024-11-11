@@ -1,16 +1,23 @@
 Name:S.VIISHHNU VARDHUN REDDY
 
 Company:CODTECH IT SOLUTIONS
+
 ID:CT08DS9139
+
 Domain:Web Development
+
 Duration:October to November 2024
+
 Mentor:Neela Santhosh Kuamr
 
 Overview of the Project
+
 Project:E-Commerce website 
+
 The main objective of this e-commerce project is to create a secure, user-friendly platform where customers can easily browse, search, and purchase products. It allows users to manage their accounts and orders, with secure payment options, to enhance customer satisfaction and encourage repeat business.
 
 Key Activities:
+
 Requirement Analysis: Define features, user roles, and security needs for the platform.
 UI/UX Design: Create intuitive and attractive designs for a seamless user experience.
 Frontend Development: Build responsive and interactive pages for browsing, searching, and managing products and carts.
